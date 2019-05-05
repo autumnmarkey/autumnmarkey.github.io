@@ -2,8 +2,8 @@
 
 
 Colors {
-    
-Lite - Orange    
+
+Lite - Orange
 #faaa68
 
 Red
@@ -11,22 +11,22 @@ Red
 
 Dark - Orange
 #f36c30
-    
+
 Lite - Teal
 #71afa5
-    
+
 Dark - Teal
 #008b9b
-    
-Navy    
+
+Navy
 #182350
-    
+
 }
 
 .responsiver {
     max-width: 100%;
     height: auto;
-    
+
 }
 
 
@@ -573,7 +573,7 @@ form p {
   right: 5%;
 /*  background-color: #202020;*/
   background-color: #faaa68;
-  
+
 }
 #menu-link.is-clicked {
 /*
@@ -784,13 +784,13 @@ form p {
 /*  color: #202020;*/
   color: #ffffff;
 /*  background: #29d2e4;*/
-  background: #faaa68; 
+  background: #faaa68;
   -webkit-font-smoothing: subpixel-antialiased;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
   transition: none;
-    
+
 /*
   -webkit-box-shadow: 0 4px 0 #18b1c2;
   -moz-box-shadow: 0 4px 0 #18b1c2;
@@ -907,9 +907,9 @@ form p {
   transition: all 0.3s ease-out;
 }
 .social-links-2 li a:hover {
-    
+
 /*
-Lite - Orange    
+Lite - Orange
 ##faaa68
 
 Red
@@ -1003,12 +1003,12 @@ Red
 /*bluecolorhere*/
 
 .bg-image-2 {
-  background: #29d2e4 url(../img/CondomsLayered.png) no-repeat center center;
+  background: #29d2e4 url(../img/IMG_0912.jpeg) no-repeat center center;
   background-size: cover;
 }
 @media (max-width: 767px) {
   .bg-image-2 {
-    background: #29d2e4 url(../img/CondomsLayered.png) no-repeat 20% center;
+    background: #29d2e4 url(../img/IMG_0912.jpeg) no-repeat 20% center;
   }
 }
 blockquote,
@@ -1055,11 +1055,11 @@ blockquote,
 .features-1 article .fa {
   font-size: 32px;
 /*  color: #29d2e4;*/
-    
+
 /*
 Lite - Teal
 #71afa5
-    
+
 Dark - Teal
 #008b9b
 */
@@ -1197,7 +1197,7 @@ Red
 }
 
 /*
-Lite - Orange    
+Lite - Orange
 #faaa68
 
 Red
